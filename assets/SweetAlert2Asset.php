@@ -13,7 +13,7 @@ class SweetAlert2Asset extends AssetBundle
     /**
      * @var string
      */
-    public $baseUrl = 'https://cdn.jsdelivr.net/npm/sweetalert2@9.5.3/dist/';
+    public $baseUrl = 'https://cdn.jsdelivr.net/npm/sweetalert2@9.5.3/dist';
 
 
     /**
